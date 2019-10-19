@@ -32,10 +32,10 @@ watch-logs-and-run /path/to/1.log /path/to/2.log /weird/deep/path/to/side-effect
 2019/10/19 12:10:32 2.log - open cabinet[2] detected
 2019/10/19 12:10:32 2.log - open cabinet[4] detected
 2019/10/19 12:10:33 get-food - where the **** is it
-2019/10/19 12:10:32 side-effect.log - kitchen mood levels modified: old[HUNGRY] new[HANGRY]
-2019/10/19 12:10:33 get-food - screw it I want pop tarts
-2019/10/19 12:10:31 1.log - waffle-iron-core unplugged. Feeling sleepy...
-2019/10/19 12:10:32 2.log - open cabinet[7] detected
+2019/10/19 12:10:33 side-effect.log - kitchen mood levels modified: old[HUNGRY] new[HANGRY]
+2019/10/19 12:10:34 get-food - screw it I want pop tarts
+2019/10/19 12:10:35 1.log - waffle-iron-core unplugged. Feeling sleepy...
+2019/10/19 12:10:36 2.log - open cabinet[7] detected
 .
 .
 .
